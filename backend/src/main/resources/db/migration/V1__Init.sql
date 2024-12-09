@@ -1,0 +1,2 @@
+-- Initial schema baseline
+-- This file is intentionally empty as we're using an existing database
